@@ -32,5 +32,5 @@
 ![alt text](https://github.com/mishogavasheli/final_project/blob/main/Images/Screenshot%202021-12-16%20at%2013.07.41.png?raw=true)
 
 
-## **Thank you**
+## **Thank you! **
 
