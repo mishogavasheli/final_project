@@ -1,18 +1,15 @@
 # Final bootcamp project - food recipes recommender
 
 
-* [**Overview** ](...)
-* [**About dataset** ](...)
-* [**Data exploration and preparation** ](...)
-* [**Function-recommender** ](...)
-* [**Result**](...)
+* [**Overview** ](https://github.com/mishogavasheli/final_project/edit/main/README.md#:~:text=Result-,Overview,-This%20project%20is)
+* [**Data exploration and preparation** ](https://github.com/mishogavasheli/final_project/edit/main/README.md#:~:text=About%20dataset-,Data%20exploration%20and%20preparation,-I%20explored%20this)
+* [**Function-recommender** ](https://github.com/mishogavasheli/final_project/edit/main/README.md#:~:text=type%20and%20cuisine.-,Function%2Drecommender,-The%20principle%20of)
+* [**Result**](https://github.com/mishogavasheli/final_project/edit/main/README.md#:~:text=time%20to%20cook-,Result,-Final%20result%20look)
 
 
 ## **Overview**
 ###### This project is about food recipe recommendations. I took a dataset from food.com where were more than 200 000 recipes and more than one million reviews and ratings and built the function for the recommendation. According to users wishes, the recommender shows you the best matches by ratings and review sentiments. 
 
-## **About dataset**
-###### 
 
 ## **Data exploration and preparation** 
 ###### I explored this dataset with python, tableau, and excel. After this, I decided to remove some nulls and dropped unneeded columns. Also, I removed double spaces from columns. Then I started preparing data for the function. I add columns for vegetarian food, for low calories (under 200 calories),  for difficulty, for a quick recipe (under 30 min), for food type and cuisine.
