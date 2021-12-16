@@ -8,7 +8,7 @@
 
 
 ## **Overview**
-##### This project is about food recipe recommendations. I took a [dataset](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions) from [food.com](https://www.food.com/) where were more than 200 000 recipes and more than one million reviews and ratings and built the function for the recommendation. According to users wishes, the recommender shows you the best matches by ratings and review sentiments. 
+##### This project is about food recipe recommendations. I took a [dataset](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions) from [food.com](https://www.food.com/) where were more than 200 000 recipes, more than one million reviews with ratings and built the function for the recommendation. According to users wishes, the recommender shows you the best matches by ratings and review sentiments. 
 
 
 ## **Data exploration and preparation** 
