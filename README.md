@@ -1,7 +1,7 @@
 # Final bootcamp project - food recipes recommender
 
 
-* [**Overview** ](https://github.com/mishogavasheli/final_project/edit/main/README.md#:~:text=Result-,Overview,-This%20project%20is)
+* [**Overview** ](https://github.com/mishogavasheli/final_project/blob/main/README.md#:~:text=Result-,Overview,-This%20project%20is)
 * [**Data exploration and preparation** ](https://github.com/mishogavasheli/final_project/edit/main/README.md#:~:text=About%20dataset-,Data%20exploration%20and%20preparation,-I%20explored%20this)
 * [**Function-recommender** ](https://github.com/mishogavasheli/final_project/edit/main/README.md#:~:text=type%20and%20cuisine.-,Function%2Drecommender,-The%20principle%20of)
 * [**Result**](https://github.com/mishogavasheli/final_project/edit/main/README.md#:~:text=time%20to%20cook-,Result,-Final%20result%20look)
