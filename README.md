@@ -25,6 +25,11 @@
 ## **Function-recommender** 
 ###### The principle of this recommendation is filtering recipes step by step with user interaction. Users need to answer a couple of questions about food preferences, then the function will show the top 5 matching recipes by ratings and review sentiments. Then you need to choose one of them and it will shows you recipe name, ingredients, steps and time to cook
 
+![alt text](https://github.com/mishogavasheli/final_project/blob/main/Images/Screenshot%202021-12-16%20at%2012.59.21.png?raw=true)
+
+
 
 ## **Result**
 ###### final result look like this:
+
+![alt text](https://github.com/mishogavasheli/final_project/blob/main/Images/Screenshot%202021-12-16%20at%2012.59.08.png?raw=true)
